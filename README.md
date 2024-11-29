@@ -1,7 +1,7 @@
 # DSA210_Project
 
 Description
-This project analyzes the correlation between my daily step count and external factors such as exam seasons and weekday vs. weekend activity patterns.
+This project aims to analyze the correlation between my daily step count and external factors such as how it changes during the exam seasons and weekday vs. weekend activity patterns.
 
 Table of Contents
 Motivation
@@ -16,16 +16,16 @@ Findings
 Limitations
 Future Work
 Motivation
-The motivation behind this project is to better understand how my physical activity, as measured by daily step count, is influenced by external factors like academic workload and weekly routines. By exploring correlations with exam seasons and distinguishing activity levels on weekdays versus weekends, I aim to uncover patterns in my behavior and identify potential areas for lifestyle adjustments.
+The motivation behind this project is to better understand how my physical activity, as measured by daily step count, is influenced by external factors like academic workload and weekly routines. By exploring correlations with exam seasons and distinguishing activity levels on weekdays versus weekends, I aim to uncover patterns in my behavior and identify potential areas for lifestyle changes.
 
-Tools
+Tools That I Will Probably Use In My Project
 Jupyter Notebook: For coding and documentation.
 Pandas: For data cleaning, manipulation, and filtering.
 Matplotlib & Seaborn: For creating visualizations.
 Numpy: For mathematical operations.
 Scipy: For statistical analysis.
 Data Source
-The data used in this project comes from my step count logs, recorded via a smartwatch. I also used academic calendar records to identify exam periods and a simple script to label each day as either a weekday or a weekend.
+The data used in this project comes from my step count logs, recorded with my phone. I will also use exam period data.
 
 Data Processing
 The data processing phase involved:
