@@ -1,6 +1,6 @@
 # DSA210_Project
 
-Description
+## Description
 This project aims to analyze the correlation between my daily step count and external factors such as how it changes during the exam seasons and weekday vs. weekend activity patterns.
 
 Table of Contents
